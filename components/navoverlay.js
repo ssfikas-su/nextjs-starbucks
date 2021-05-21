@@ -16,21 +16,25 @@ export default function NavOverlay({closeClickHandler}) {
                             <a>Menu</a>
                         </Link>
                     </li>
+                    
                     <li>
                         <Link href="/locations">
                             <a>Locations</a>
                         </Link>
                     </li>
+
                     <li>
                         <Link href="/people">
                             <a>People</a>
                         </Link>
                     </li>
+
                     <li>
                         <Link href="/about">
                             <a>About</a>
                         </Link>
                     </li>
+
                     <li>
                         <Link href="/contact">
                             <a>Contact</a>
