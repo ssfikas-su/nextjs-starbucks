@@ -32,7 +32,7 @@ export default function NavOverlay({closeClickHandler}) {
                         </Link>
                     </li>
                     <li>
-                        <Link href="/Contact">
+                        <Link href="/contact">
                             <a>Contact</a>
                         </Link>
                     </li>
